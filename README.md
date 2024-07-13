@@ -25,7 +25,7 @@ Ce projet implémente plusieurs méthodes de régression en utilisant les biblio
    cd regression
 
    ```
-2. **lancer le script, exécutez ** :
+2. **lancer le script, exécutez** :
    ```bash
     python regression.py
 
